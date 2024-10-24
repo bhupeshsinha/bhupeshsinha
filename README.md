@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://leetcard.jacoblin.cool/bhupeshsinha?cache=0)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bhupeshsinha?ext=heatmap)
 
