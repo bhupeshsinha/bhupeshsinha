@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupeshsinha&label=Profile%20views&color=0e75b6&style=flat" alt="bhupeshsinha" /> </p>
 
-- 🔭 I’m currently working on **Coursework projects and my problem solving skills**
+- 🔭 I’m currently working on **Problem solving skills**
 
 - 🌱 I’m currently learning **Development skills and DSA.**
 
-- 💬 Ask me about **DSA, MERN and Computer Science Core Subjects.**
+- 💬 Ask me about **Computer Science Subjects.**
 
 - 📫 How to reach me **bhupeshsinha247@gmail.com**
 
