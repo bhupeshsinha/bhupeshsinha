@@ -28,3 +28,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bhupeshsinha?ext=heatmap)
 
+[![reload to see Bhupesh's geeksForgeeks practice stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bhupeshsinha247)](https://auth.geeksforgeeks.org/user/bhupeshsinha247)
+
+
