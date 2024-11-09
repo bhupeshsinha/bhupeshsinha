@@ -30,4 +30,7 @@
 
 [![reload to see Bhupesh's geeksForgeeks practice stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=bhupeshsinha247)](https://auth.geeksforgeeks.org/user/bhupeshsinha247)
 
+[Check out my code360 profile!](https://www.naukri.com/code360/profile/coder247)
+
+
 
